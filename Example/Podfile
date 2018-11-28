@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CSBTestModule_Example' do
+  pod 'CSBTestModule', :path => '../'
+
+  target 'CSBTestModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
