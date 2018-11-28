@@ -1,0 +1,22 @@
+{
+  "name": "CSBTestModule",
+  "version": "0.1.0",
+  "summary": "A short description of CSBTestModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiaom.wang001/CSBTestModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaom.wang001": "xiaom.wang001@bkjk.com"
+  },
+  "source": {
+    "git": "https://github.com/xiaom.wang001/CSBTestModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CSBTestModule/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - CSBTestModule (0.1.0)
+
+DEPENDENCIES:
+  - CSBTestModule (from `../`)
+
+EXTERNAL SOURCES:
+  CSBTestModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CSBTestModule: cedb82eaef6b1ba11b2dff24bdaca94f6de16da4
+
+PODFILE CHECKSUM: eaaa017f7f0308e25ac116a2a774ce35f01e567c
+
+COCOAPODS: 1.5.3

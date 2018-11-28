@@ -1,0 +1,6 @@
+framework module CSBTestModule {
+  umbrella header "CSBTestModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
